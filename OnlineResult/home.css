@@ -1,0 +1,33 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+body
+{
+	margin:0px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.subhead
+{
+	font-family:'Poppins';
+	color:#ffffff;
+	font-size:30px;
+    display: block;
+    margin-left: 1140px;
+}
+
+.design {
+    background-color: #ffe180dc;
+    border: 1px solid #126062;
+    border-radius: 5px;
+    padding: 50px 10px 50px 50px;
+    box-shadow: 0px 0px 40px #000000;
+    margin-left: 1090px;
+    margin-right: 120px;
+    margin-top: 30px;
+    text-align: left;
+}
+
+a.cmd:link{text-decoration:none;font-family:"Poppins";font-size:15px;color:#126062;padding:5px 6px;background-color:transparent;border:1px solid #066;} */
+a.cmd:active{text-decoration:none;font-family:"Poppins";font-size:15px;color:#126062;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:visited{text-decoration:none;font-family:"Poppins";font-size:15px;color:#126062;padding:5px 6px;background-color:transparent;border:1px solid #066;}
+a.cmd:hover{text-decoration:none;font-family:"Poppins";font-size:15px;;padding:5px 6px;background-color:transparent;border:1px solid #126062;box-shadow:0px 0px 3px #066;} 
